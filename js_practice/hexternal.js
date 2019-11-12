@@ -1,0 +1,1 @@
+document.getElementById("p").innerHTML="moon replaced by sun using external scrpting";

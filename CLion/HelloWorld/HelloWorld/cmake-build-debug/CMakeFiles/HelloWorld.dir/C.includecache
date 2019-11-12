@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Workstation/CLion/HelloWorld/HelloWorld/array.c
+stdio.h
+-
+
+E:/Workstation/CLion/HelloWorld/HelloWorld/main.c
+stdio.h
+-
+stdlib.h
+-
+
+E:/Workstation/CLion/HelloWorld/HelloWorld/make_bhurji.c
+
